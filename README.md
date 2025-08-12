@@ -1,15 +1,13 @@
-# Virendra Kumar
+# Assistant Professor, SoCS, UPES Dehradun
+#### Programming Languages: C, Python, and R
+#### Software: Mathematica, MATLAB, LaTex, SPSS, Maple
+#### Google Scholar Citations: 165 Citations
+#### h-index: 7
 
 **Ph.D. Mathematics and Computing**  
 Department of Mathematics, Institute of Science  
 Banaras Hindu University, Varanasi, Uttar Pradesh, India  
 📱 (+91) 9899306076  
-✉️ [virendrakumar1267@gmail.com](mailto:virendrakumar1267@gmail.com) | [virendrakumar@bhu.ac.in](mailto:virendrakumar@bhu.ac.in)  
-🔗 [LinkedIn](https://www.linkedin.com/in/virendra-kumar-8b)  
-
-> *"Opportunities don’t happen, you create them."*
-
----
 
 ## 🎓 Education
 
