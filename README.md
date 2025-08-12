@@ -41,7 +41,8 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 ## 🔬 Research Interests
 
-- **Graph Theory** — Chemical Graph Theory, Spectral Graph Theory  
+- **Graph Theory** — Chemical Graph Theory, Spectral Graph Theory
+- ** Mathematical Chemistry** - QSPR/QSAR Analysis, Regression Analysis, Molecular Stratural Analysis
 - **Discrete Mathematics** — Combinatorics  
 
 ---
