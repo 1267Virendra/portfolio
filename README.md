@@ -72,6 +72,7 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 *  **Virendra Kumar** and Shibsankar Das. [The Nordhaus-Gaddum-type Inequalities for the Nirmala Indices](https://jaem.isikun.edu.tr/web/index.php/archive/127-vol15no1/1308). [*Turkish World Mathematical Society (TWMS) Journal of Applied and Engineering Mathematics*](https://jaem.isikun.edu.tr/web/),  Volume **15**, Issue no. 1, Page: 120-136, **2025**, (Accepted on 19-March-2024). [ISSN: 2146-1147] - [Indexed in **ESCI (WoS), Scopus, Q3**].
 
+* **Virendra Kumar** and Shibsankar Das. [Comparative Study Between Nirmala and Sombor Indices Based on Their Applicability, Degeneracy and Smoothness](https://link.springer.com/article/10.1140/epjp/s13360-024-05768-x). [*The European Physical Journal - Plus (EPJ Plus)*](https://link.springer.com/journal/13360), Springer,  Volume **139**, Issue no. 11, Page: 1-22, article number 995, 2024, (Accepted on 21-October-2024). [DOI: [https://doi.org/10.1140/epjp/s13360-024-05768-x](https://doi.org/10.1140/epjp/s13360-024-05768-x)]  - [ISSN: 2190-5444] - [Indexed in **SCIE** (Journal Citation Reports (JCR), **I.F: 2.9 (2024), WoS, Q1**), **Scopus**].
   
 
 ---
