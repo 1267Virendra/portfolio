@@ -68,7 +68,7 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 <strong>Journals</strong>
 
-* Shibsankar Das and **Virendra Kumar**. [Chemical Applicability of GQ and QG Indices of a Graph and Their Bounds](https://combinatorialpress.com/article/ars/Volume%20162/chemical-applicability-of-gq-and-qg-indices-of-a-graph-and-their-bounds.pdf). [Ars Combinatoria](https://combinatorialpress.com/ars/),  Volume **162**, Page: 123-148, **2025**, (Accepted on 22-February-2025). [[DOI:](https://doi.org/10.61091/ars162-10)]]  - [ISSN: 0381-7032 (print), 2817-5204 (online)] - [Indexed in **Scopus, Q4**].
+* Shibsankar Das and **Virendra Kumar**. [Chemical Applicability of GQ and QG Indices of a Graph and Their Bounds](https://combinatorialpress.com/article/ars/Volume%20162/chemical-applicability-of-gq-and-qg-indices-of-a-graph-and-their-bounds.pdf). [*Ars Combinatoria*](https://combinatorialpress.com/ars/),  Volume **162**, Page: 123-148, **2025**, (Accepted on 22-February-2025). [[DOI:[https://doi.org/10.61091/ars162-10](https://doi.org/10.61091/ars162-10)]]  - [ISSN: 0381-7032 (print), 2817-5204 (online)] - [Indexed in **Scopus, Q4**].
   
 
 ---
