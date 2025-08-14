@@ -1,6 +1,6 @@
 # Assistant Professor, SoCS, UPES Dehradun
 #### Programming Languages: C, Python, and R
-#### Software: Mathematica, MATLAB, LaTex, SPSS, Maple
+#### Software: Mathematica, MATLAB, LaTeX, SPSS, Maple
 #### Google Scholar Citations: 165 Citations
 #### h-index: 7
 
@@ -42,7 +42,7 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 ## 🔬 Research Interests
 
 - **Graph Theory** — Chemical Graph Theory, Spectral Graph Theory
-- ** Mathematical Chemistry** - QSPR/QSAR Analysis, Regression Analysis, Molecular Stratural Analysis
+- ** Mathematical Chemistry** - QSPR/QSAR Analysis, Regression Analysis, Molecular Descriptors' Structural Analysis
 - **Discrete Mathematics** — Combinatorics  
 
 ---
@@ -59,19 +59,17 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 - **Applied Mathematics:** Discrete Mathematics, Differential Equations, Numerical Analysis, Optimization, Fluid Dynamics  
 - **Pure Mathematics:** Analysis, Linear Algebra, Abstract Algebra, Complex Analysis, Functional Analysis  
-- **Computer Science:** C Programming, Data Structure, Theory of Computation, Data Compression, Pattern Matching in String  
+- **Computer Science:** C Programming, Data Structure, Theory of Computation, Data Compression, Pattern Matching in Strings  
 - **Statistics:** Probability and Statistics, Probability Theory  
 
 ---
 
 ## 📝 Research Publications
 
-*(Selected list)*
+<strong>Journals</strong>
 
-1. S. Das & V. Kumar, *Chemical Applicability of GQ and QG Indices of a Graph and Their Bounds*, Ars Combinatoria, 162, 123-148, 2025. (Scopus, Q4)  
-2. V. Kumar & S. Das, *The Nordhaus-Gaddum-type Inequalities for the Nirmala Indices*, TWMS J. Appl. & Eng. Math., 15(1), 120–136, 2025. (ESCI, Scopus)  
-3. V. Kumar & S. Das, *Comparative Study Between Nirmala and Sombor Indices*, Eur. Phys. J. Plus, 139(11), 2024. (SCIE, IF 2.8, Q1)  
-4. *(Full list available in CV)*  
+* Shibsankar Das and **Virendra Kumar**. [Chemical Applicability of GQ and QG Indices of a Graph and Their Bounds](https://combinatorialpress.com/article/ars/Volume%20162/chemical-applicability-of-gq-and-qg-indices-of-a-graph-and-their-bounds.pdf). [Ars Combinatoria](https://combinatorialpress.com/ars/),  Volume 162, Page: 123-148, 2025, (Accepted on 22-February-2025). [DOI: https://doi.org/10.61091/ars162-10]  - [ISSN: 0381-7032 (print), 2817-5204 (online)] - [Indexed in Scopus, Q4].
+  
 
 ---
 
