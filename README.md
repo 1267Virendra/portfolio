@@ -66,11 +66,11 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 ## 📝 Research Publications
 
-* **Virendra Kumar**, Shibsankar Das and Jayjit Barman. Neighborhood Degree Sum-based Entropy Measures of Some Silicon Carbide Networks. [*Journal of Chemical Sciences*](https://link.springer.com/journal/12039), Published by the Indian Academy of Sciences, Springer,  Volume ??, Issue no. ?, Page: ???, **2025**, (Accepted on 4-June-2025). [DOI: https://doi.org/]  - [eISSN: 0973-7103] - [Indexed in SCIE (Journal Citation Reports (JCR), I.F: 2.0 (2024), WoS, Q3), Scopus].
+* **Virendra Kumar**, Shibsankar Das and Jayjit Barman. Neighborhood Degree Sum-based Entropy Measures of Some Silicon Carbide Networks. [*Journal of Chemical Sciences*](https://link.springer.com/journal/12039), Published by the Indian Academy of Sciences, Springer,  Volume ??, Issue no. ?, Page: ???, **2025**, (Accepted on 4-June-2025). [DOI: ?]  - [eISSN: 0973-7103] - [Indexed in **SCIE** (Journal Citation Reports (JCR), **I.F: 2.0 (2024), WoS, Q3**), **Scopus**].
 
 * Shibsankar Das and **Virendra Kumar**. [Chemical Applicability of GQ and QG Indices of a Graph and Their Bounds](https://combinatorialpress.com/article/ars/Volume%20162/chemical-applicability-of-gq-and-qg-indices-of-a-graph-and-their-bounds.pdf). [*Ars Combinatoria*](https://combinatorialpress.com/ars/),  Volume **162**, Page: 123-148, **2025**, (Accepted on 22-February-2025). [DOI: [https://doi.org/10.61091/ars162-10](https://doi.org/10.61091/ars162-10)]  - [ISSN: 0381-7032 (print), 2817-5204 (online)] - [Indexed in **Scopus, Q4**].
 
-*  **Virendra Kumar** and Shibsankar Das. [The Nordhaus-Gaddum-type Inequalities for the Nirmala Indices](https://jaem.isikun.edu.tr/web/index.php/archive/127-vol15no1/1308). [*Turkish World Mathematical Society (TWMS) Journal of Applied and Engineering Mathematics*](https://jaem.isikun.edu.tr/web/),  Volume **15**, Issue no. 1, Page: 120-136, **2025**, (Accepted on 19-March-2024). [DOI: https://doi.org/]  - [ISSN: 2146-1147] - [Indexed in ESCI (WoS), Scopus, Q3].
+*  **Virendra Kumar** and Shibsankar Das. [The Nordhaus-Gaddum-type Inequalities for the Nirmala Indices](https://jaem.isikun.edu.tr/web/index.php/archive/127-vol15no1/1308). [*Turkish World Mathematical Society (TWMS) Journal of Applied and Engineering Mathematics*](https://jaem.isikun.edu.tr/web/),  Volume **15**, Issue no. 1, Page: 120-136, **2025**, (Accepted on 19-March-2024). [ISSN: 2146-1147] - [Indexed in **ESCI (WoS), Scopus, Q3**].
 
   
 
