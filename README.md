@@ -86,6 +86,7 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 *  **Virendra Kumar** and  Shibsankar Das. [On Nirmala Indices-Based Entropy Measures of Silicon Carbide Network](https://ijmc.kashanu.ac.ir/article_114122.html). [Iranian Journal of Mathematical Chemistry (IJMC)](https://ijmc.kashanu.ac.ir/), Volume **14**, Issue no. 4, Pages 271-288, 2023, (Accepted on 9-Dec-2023). [DOI: [https://doi.org/10.22052/ijmc.2023.252742.1704](https://doi.org/10.22052/ijmc.2023.252742.1704)]  - [ISSN: 1560-7534] - [Indexed in **Scopus, ESCI (Web of Science), Q2**].
 
+* Shibsankar Das, Shikha Rai and **Virendra Kumar**. [On Topological Indices of Molnupiravir and Its QSPR Modelling With Some Other Antiviral Drugs to Treat COVID-19 Patients](https://link.springer.com/article/10.1007/s10910-023-01518-z#article-info). [Journal of Mathematical Chemistry (JOMC)](https://www.springer.com/journal/10910), Springer,  Volume **62**, Issue no. 10, Pages: 2581–2624, 2024 (Accepted on 04-Sept.-2023).  Published by Springer Nature Switzerland AG [DOI:- [https://doi.org/10.1007/s10910-023-01518-z](https://doi.org/10.1007/s10910-023-01518-z)]. [Online ISSN / eISSN: 1572-8897]-[Indexed in **SCI / SCIE** (Journal Citation Reports (JCR), **I.F: 2.0 (2024), WoS, Q2),  Scopus**].
   
   
 
