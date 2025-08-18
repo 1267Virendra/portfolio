@@ -79,6 +79,10 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 * **Virendra Kumar** and Shibsankar Das. [A Novel Approach to Determine the Sombor-type Indices via M-polynomial](https://link.springer.com/article/10.1007/s12190-024-02272-4). [*Journal of Applied Mathematics and Computing (JAMC)*](https://link.springer.com/journal/12190), Springer,  Volume **71**, Issue no. 1, Page: 983–1007, 2025, (Accepted on 03-October-2024). [DOI: [https://doi.org/10.1007/s12190-024-02272-4](https://doi.org/10.1007/s12190-024-02272-4)]  - [ ISSN: 1865-2085] - [Indexed in **SCIE** (Journal Citation Reports (JCR), **I.F: 2.7 (2024), WoS, Q1**), **Scopus**].
 
 * Shibsankar Das and **Virendra Kumar**. [Neighborhood Degree Sum-based Molecular Indices and Their Comparative Analysis of Some Silicon Carbide Networks](https://iopscience.iop.org/article/10.1088/1402-4896/ad3682). [*Physica Scripta*](https://iopscience.iop.org/journal/1402-4896),  Volume **99**, Issue no. 5, Page: 055941, 2024, (Accepted on 21-March-2024). [DOI: [https://doi.org/10.1088/1402-4896/ad3682](https://doi.org/10.1088/1402-4896/ad3682)]  - [ ISSN: 1402-4896] - [Indexed in **SCI** (Journal Citation Reports (JCR), **I.F: 2.6 (2024), WoS, Q1**), **Scopus**].
+
+*  **Virendra Kumar** and  Shibsankar Das. [On Structure Sensitivity and Chemical Applicability of Some Novel Degree-Based Topological Indices](https://match.pmf.kg.ac.rs/issues/m92n1/m92n1_165-203.html). [MATCH-Communications in Mathematical and in Computer Chemistry](https://match.pmf.kg.ac.rs/),  Faculty of Science & University of Kragujevac, Volume **92**, Issue no. 1, Page: 165-203, 2024, (Accepted on 22-January-2024). [DOI: [https://doi.org/10.46793/match.92-1.165K](https://doi.org/10.46793/match.92-1.165K)]  - [ISSN: 0340-6253, eISSN: 3009-4399] - [Indexed in **SCI** (Journal Citation Reports (JCR), **I.F: 2.9 (2023), WoS, Q1**), **Scopus**].
+
+  
   
 
 ---
