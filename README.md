@@ -84,6 +84,8 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 *  **Virendra Kumar** and  Shibsankar Das. [Comparative Study of GQ and QG Indices as Potentially Favorable Molecular Descriptors](https://onlinelibrary.wiley.com/doi/10.1002/qua.27334). [International Journal of Quantum Chemistry (IJQC)](https://onlinelibrary.wiley.com/journal/1097461x), Wiley, Volume **124**, Issue no. 3, Page: e27334, 2024, (Accepted on 12-Dec-2023). [DOI: [https://doi.org/10.1002/qua.27334](https://doi.org/10.1002/qua.27334)]  - [Online ISSN: 1097-461X] - [Indexed in **SCI / SCIE** (Journal Citation Reports (JCR), **I.F: 2.3 (2024), WoS, Q2**), **Scopus**].
 
+*  **Virendra Kumar** and  Shibsankar Das. [On Nirmala Indices-Based Entropy Measures of Silicon Carbide Network](https://ijmc.kashanu.ac.ir/article_114122.html). [Iranian Journal of Mathematical Chemistry (IJMC)](https://ijmc.kashanu.ac.ir/), Volume **14**, Issue no. 4, Pages 271-288, 2023, (Accepted on 9-Dec-2023). [DOI: [https://doi.org/10.22052/ijmc.2023.252742.1704](https://doi.org/10.22052/ijmc.2023.252742.1704)]  - [ISSN: 1560-7534] - [Indexed in **Scopus, ESCI (Web of Science), Q2**].
+
   
   
 
