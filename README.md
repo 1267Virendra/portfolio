@@ -101,12 +101,13 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 - **5th ICMEMS 2024**, UPES Dehradun — *Topological Characterization of Some Silicon Carbide Networks using GQ and QG Indices-based Entropy Measures*  
 - **ICAM 2024**, Vidyasagar University — *Predictive Potential of the Nirmala Index and its Comparison with the Sombor Index*  
 - **2023 UWGTC**, Ural Federal University (Russia) — *Novel Approach to Compute Sombor-type Indices via M-polynomial*  
-- *(More listed in full CV)*  
+- 
 
 ---
 
 ## 🏫 Teaching Experience
 
+- **Assistant Professor** - Core Computer Science Cluster, School of Computer Science, UPES Dehradun *(June 04, 2025 - Present)*
 - **Lab Teaching Assistant** — Department of Mathematics, BHU *(Jul 2021 – Nov 2024)*  
   - Taught C Programming to B.Sc. students  
 - **Lecturer** — Mahila Maha Vidyalaya, BHU *(Jan 2023 – Jun 2023)*  
@@ -119,7 +120,9 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 - **Scientific Reports** — Springer Nature *(2025–Present)*  
 - **MATCH Communications in Mathematical and in Computer Chemistry** — University of Kragujevac *(2025–Present)*  
-- **Discover Chemistry** — Springer Nature *(2025–Present)*  
+- **Discover Chemistry** — Springer Nature *(2025–Present)*
+- **BioNanoScience** — Springer Nature *(2025–Present)*
+- **RAIRO - Operations Research** —*(2025–Present)*
 
 ---
 
