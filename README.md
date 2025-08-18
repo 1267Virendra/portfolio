@@ -116,7 +116,7 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 ---
 
-## 🧪 Reviewer Roles
+## 🧪 Reviewer Role for Journals
 
 - **Scientific Reports** — Springer Nature *(2025–Present)*  
 - **MATCH Communications in Mathematical and in Computer Chemistry** — University of Kragujevac *(2025–Present)*  
