@@ -4,7 +4,7 @@
 #### Google Scholar Citations: 165 Citations
 #### h-index: 7
 
-**Ph.D. Mathematics and Computing**  
+**Ph.D. in Mathematics and Computing**  
 Department of Mathematics, Institute of Science  
 Banaras Hindu University, Varanasi, Uttar Pradesh, India  
 📱 (+91) 9899306076  
@@ -12,7 +12,7 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 ## 🎓 Education
 
 - **Ph.D. in Mathematics and Computing** — Banaras Hindu University, Varanasi *(Sep 2019 – Jan 2025)*  
-  - Status: Thesis submitted  
+  - Status: Degree Awarded  
   - Senior Research Fellowship (UGC-India)  
   - CGPA: 8.5 in coursework  
 
@@ -98,16 +98,18 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 ## 🎤 Conferences & Presentations
 
-- **5th ICMEMS 2024**, UPES Dehradun — *Topological Characterization of Some Silicon Carbide Networks using GQ and QG Indices-based Entropy Measures*  
-- **ICAM 2024**, Vidyasagar University — *Predictive Potential of the Nirmala Index and its Comparison with the Sombor Index*  
-- **2023 UWGTC**, Ural Federal University (Russia) — *Novel Approach to Compute Sombor-type Indices via M-polynomial*  
-- 
+- Presented a paper entitled *On Nirmala Indices of Carbide Networks via M‑Polynomial* at the **International E‑Conference on Pure and Applied Mathematical Sciences (ICPAMS‑2022)** during 04‑07 May, 2022.
+- Presented a paper entitled *On Topological Indices of Polycyclic Silicon Carbide Structure Using M‑Polynomial* at the **International Conference on Advanced Trends on Computational Mathematics, Statistics and Operations Research (ICCMSO‑2022)** during 02‑03 April, 2022, organized by the Department of Applied Sciences, The Northcap University, Gurugram, Haryana.
+- Received the **first prize award** in the category of mathematics for the oral presentation of a paper entitled *The M‑Polynomial Based Formulations of the Geometric‑Quadratic and Quadratic‑Geometric Indices of a Graph* at the **6th International Conference on Recent Advances in Science (ICRAS‑2022)** during 01‑02 April, 2022, organized by the Invertis University, Bareilly.
+- Presented a paper entitled *On M‑polynomial of 2-dimensional Silicon‑Carbons* in the four-day **International E‑Conference on Pure and Applied Mathematical Sciences (ICPAMS‑2021)**, during June 7‑10, 2021.
+- **International Conference on Applied Mathematical Models (ICAMM 2021)‑Online**, organized by the Department of Mathematics, PSG College of Technology, Coimbatore, India, during 07‑09 January 2021.  
+- **International webinar on The Role of Applied Mathematics in Present Global Crises**, 05‑07 August 2020, Organized by Department of Applied Mathematics with Oceanology and Computer Programming, Vidyasagar University, Midnapore‑721102, West Bengal, India.
 
 ---
 
 ## 🏫 Teaching Experience
 
-- **Assistant Professor** - Core Computer Science Cluster, School of Computer Science, UPES Dehradun *(June 04, 2025 - Present)*
+- **Assistant Professor** - Core Computer Science Cluster, School of Computer Science, UPES Dehradun *(June 05, 2025 - Present)*
 - **Lab Teaching Assistant** — Department of Mathematics, BHU *(Jul 2021 – Nov 2024)*  
   - Taught C Programming to B.Sc. students  
 - **Lecturer** — Mahila Maha Vidyalaya, BHU *(Jan 2023 – Jun 2023)*  
@@ -134,4 +136,4 @@ Banaras Hindu University, Varanasi, Uttar Pradesh, India
 
 ---
 
-**Last Updated:** April 29, 2025
+**Last Updated:** October 08, 2025
